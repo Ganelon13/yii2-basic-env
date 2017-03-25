@@ -1,0 +1,15 @@
+# phpstorm project files
+.idea
+
+# environments ignore
+#runtime/*
+#web/assets/*
+
+/yii
+
+web/index.php
+web/index-test.php
+
+config/mysql.php
+config/mongodb.php
+config/params-local.php
